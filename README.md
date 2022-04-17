@@ -1,7 +1,7 @@
-# docker
+# docker-compose parallel
 Docker multiple Image pull using docker-compose 
 
-# Create a docker-compose file as below
+# Create a docker-compose.yml file as below.
 version: '3.1'
 services:
   centos:
