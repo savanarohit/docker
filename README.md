@@ -42,7 +42,7 @@ services:
     image: drupal
   rocker.chat:
     image: rocket.chat
-  bakdrop:
+  backdrop:
     image: backdrop
   postfixadmin:
     image: postfixadmin
